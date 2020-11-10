@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brave-octane-278909",
+  "private_key_id": "304a5c353d563614a5f7bcac66ced307ef3613f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCItUzIllY77YH\nSY/j2qC0IXRy4TnvDsoTBM3pccdly5gm/yWaWWqM3LObiY/2br31K6n5+E5payi1\nnEhvIEhJMa6anGyfov3vExZi/AlrBxUN/rIKvoHJUZcaoVYU9MlbZYgS1ZvlIiIU\nP93O9k606KB3ORMH8dDpkZtPfehxE41PAyrjJdkMXctUbo2wFAywU/B9Mn33eXr8\nEUTMx/4uvDwbs7GXIgQjup4SubYR845FjPiUX7MbIgTG1tCgsHkC1y8/wNIQJz17\noLaoHAYGdR+e2d4WsvrybrkNAvVsVNEh12WI0PGY2W+Ikg3//uEuEOBmUadvyHky\niSVgzDHFAgMBAAECggEARAOxHxOTKvH8m4v9se3oLIOmCRN4WRUc3dHqlDVtDvBn\n043DblKSXlx6Pm1Q9xzwR0Nvbyi7y/ojjpD83ZX5TU9vJTLVaY5QmeBdkPtND2ax\nTTBkzxfUX6RKpKVOg9QI8ZDePf8BeaLePqrrenVXuNDhWzOvQ7LIJvSA7bYmZ+q8\nfKZUa4q7jTdPaYWTnOXdkGxSceaPnQ2bqr0YF6JpiZWVsmlwsm+dB7u9E8ge3nv/\nnL6XvBZjkS8PIIbzIPn+NlVPh12A0nZWBwmid2PGuG2kosjpLuQDOVCWnxcjGEsJ\nul8+uEhJVroLdjN43FWbRN1r6D2F+tnGTOf8DqRC1wKBgQD/+rLPiyDkTDQpvZmE\njX0KbuqUf5JCeP9zLloZ+B4/J9pFqVun0M8jf+QLtZCv3oBa+cSHLp4Rpi1Pk6cP\njAyDIbrMavEVclKI5FPGzJwBKgSOaZRZ81SLsGEVeTxhx8gIWJuow8UxeVHs22aT\nRFXj5ME0kwrE2tNkSC00yGDUAwKBgQDCJtp/1nzEuAOJh781eMJ503Sk6X7KAEzJ\n4WiH+6F87qRhYeFIYvX1DnyL6eTGpEB2jwphvz3V16Ufy2kzYaNcosX3mSTlLGvP\nbfHmiqsgq+Pv0wJ/Eqi3qOYs/QCojfnjaYrXt8tnpqy7Mk7IrSY4abW0HPtjiKU3\nLoNrwJUMlwKBgQDCmTWibeRdakklikvQ5zct3VBb//eSrSWVzKEWqPdlj8hxuORC\n2Yz/MdSNykPqTz5I6yQqmJf2VtyPaHJScWd5sQSvLoWEhlqUUvAVa6sVf3njQgRT\ntZaKc1X62yW6OASrw6DiVaHtkItlgw2h2wtoqpjufPJs4OZfkDc9ry9dPQKBgB4R\nsml2KKC29yVHtt9rMoN3smsQFqjmXv4tQOk+mYYl16OVazSwzvMDKVrqAJqbObii\n8rKs0cDawyIneMWSa6CfPRXZzBMKTDA2EO7prxNCS+0Kuyo/E45OREfXb1CrnHYS\nFITQXFpTQBFF+1mtJ2w5QwEANBb4RM5FD+mSTANFAoGBALMapZ9yUwzkQcIHajuD\nUibfh8Bwt8t1VIpbxqAUxlWUFOukcmBLLCznGSQnwHOfz92aST7B1YXkig246st3\nQSuoef6oJV81LGIzM4d+CHrS3/wN24xk2earDIQ7fAEiLVeCHgTc0TKatau5tjzd\nY5D//x6WlaeYpiTFMKVxqbml\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-service-account@brave-octane-278909.iam.gserviceaccount.com",
+  "client_id": "104087730506318695201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-service-account%40brave-octane-278909.iam.gserviceaccount.com"
+}
